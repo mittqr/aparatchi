@@ -1,8 +1,8 @@
 [Unit]
-Description=Run IPTV Playlist Builder every 6 hours
+Description=Run IPTV Playlist Builder every 12 hours
 
 [Timer]
-OnCalendar=*-*-* 00/6:00:00
+OnCalendar=*-*-* 00/12:00:00
 Persistent=true
 Unit=iptv-playlist.service
 
