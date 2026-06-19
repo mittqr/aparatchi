@@ -1,0 +1,14 @@
+[Unit]
+Description=Build IPTV Playlist and Push to GitHub
+After=network.target
+
+[Service]
+Type=oneshot
+User=adr
+WorkingDirectory=/home/adr/Pi/iptv
+ExecStart=/usr/bin/python3 /home/adr/Pi/iptv/build_playlist.py
+StandardOutput=journal
+StandardError=journal
+
+[Install]
+WantedBy=multi-user.target
