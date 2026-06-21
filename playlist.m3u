@@ -19,10 +19,6 @@ https://gg.hls2.xyz/live/Persiana%20Sports4/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://www.aparatchi.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Android TV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0 Safari/537.36
 https://fighthls.persiana.live/hls/stream.m3u8
-#EXTINF:-1 tvg-name="GEM Sport" tvg-logo="" group-title="Sport",GEM Sport
-#EXTVLCOPT:http-referrer=https://www.aparatchi.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Android TV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0 Safari/537.36
-https://ggg.hls2.xyz/live/IR%20-%20GEM%20Sport/playlist.m3u8
 #EXTINF:-1 tvg-name="GEM FIT" tvg-logo="" group-title="Sport",GEM FIT
 #EXTVLCOPT:http-referrer=https://www.aparatchi.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Android TV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0 Safari/537.36
@@ -38,7 +34,7 @@ https://gg.hls2.xyz/live2/irib-varzesh/playlist.m3u8
 #EXTINF:-1 tvg-name="Shabake Se" tvg-logo="" group-title="Sport",Shabake Se
 #EXTVLCOPT:http-referrer=https://www.aparatchi.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Android TV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0 Safari/537.36
-https://ggg.hls2.xyz/live2/tv3/playlist.m3u8
+https://glwizhstb50.glwiz.com/IRIBChannel3_HD/IRIBChannel3_High.m3u8?user=sgls812841&session=44b833ab0c064f635d2531ca8a15df0376bbcb75df20122fe4bc0a783012b757ccb18583477d621e&hlsid=HTTP_ID_45193&group_id=812841
 #EXTINF:-1 tvg-name="Telewebion Sport 1" tvg-logo="" group-title="Sport",Telewebion Sport 1
 #EXTVLCOPT:http-referrer=https://www.aparatchi.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Android TV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0 Safari/537.36
