@@ -19,10 +19,6 @@ https://gg.hls2.xyz/live/Persiana%20Sports4/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://www.aparatchi.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Android TV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0 Safari/537.36
 https://fighthls.persiana.live/hls/stream.m3u8
-#EXTINF:-1 tvg-name="GEM FIT" tvg-logo="" group-title="Sport",GEM FIT
-#EXTVLCOPT:http-referrer=https://www.aparatchi.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Android TV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0 Safari/537.36
-https://gg.hls2.xyz/live/IR%20-%20GEM%20FIT2/playlist.m3u8
 #EXTINF:-1 tvg-name="Varzish TV" tvg-logo="" group-title="Sport",Varzish TV
 #EXTVLCOPT:http-referrer=https://www.aparatchi.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Android TV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0 Safari/537.36
